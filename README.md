@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+Developed :Naveen kumar.R
+Register No:212223230139
 
 # Aim : 
 
