@@ -1,7 +1,8 @@
 #  Mean and variance of a discrete  distribution
+```
 Developed :Naveen kumar.R
 Register No:212223230139
-
+```
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
